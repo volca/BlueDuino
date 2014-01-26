@@ -1,1 +1,3 @@
 The BlueDuino is an Arduino compatible microcontroller development board based on the ATmega32U4 IC with Bluetooth 4.0. a.k.a. Bluetooth Low Energy (BLE), built in.  It's based on Pro Micro designed by Sparkfun Electronics. It is based around the Arduino Leonardo which means you no longer need an addition USB-Serial Interface to program your Arduino. Just plug in the board, download the addition Arduino add-on and your ready to start programming! It's the easiest way to get Bluetooth 4.0 in your project!. 
+
+* [The pins for jumper SJ1](http://www.flickr.com/photos/45359271@N03/12144887754/sizes/l/in/photostream/) @flickr
